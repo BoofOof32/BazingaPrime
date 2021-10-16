@@ -1,6 +1,18 @@
 # BazingaPrime
 A texture pack for Metroid Prime that replaces everything with Bazinga
 
+## What's left to finish
+* Metroid2 (Chozo Ruins)
+* Metroid3 (Phendrana Drifts)
+* Metroid4 (Tallon Overworld)
+* Metroid5 (Phazon Mines)
+* Metroid6 (Magmoor Caverns)
+* Metroid7 (Impact Crater)
+* Metroid8 (End Cinematic)
+* NoARAM
+* SamGunFx
+* TestAnim
+
 ### What the hell is this?
 A Byproduct of my own boredom, it replaces every texture (and eventually every sound effect once I figure out how to convert to DSP) in the game with Bazinga
 
