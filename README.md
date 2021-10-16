@@ -18,7 +18,7 @@ A texture pack for Metroid Prime that replaces everything with Bazinga
 A Byproduct of my own boredom, it replaces every texture (and eventually every sound effect once I figure out how to convert to DSP) in the game with Bazinga
 
 ### Why did you make this?
-no good reason really, was just bored
+no good reason really, was just bored. I was inspired by a L4D2 mod that turned everything into Bazinga (mod was made by CriticalChrius, [go check his mod out](https://steamcommunity.com/sharedfiles/filedetails/?id=314961446))
 
 ### Ok I'm mildly interested, how do I try this?
 I made this texture pack with Metaforce in mind, so I'm gonna tell you how to use it that way.
