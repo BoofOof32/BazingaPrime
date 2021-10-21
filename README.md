@@ -8,7 +8,6 @@ A texture pack for Metroid Prime that replaces everything with Bazinga
 * Metroid6 (Magmoor Caverns)
 * Metroid7 (Impact Crater)
 * Metroid8 (End Cinematic)
-* NoARAM
 * SamGunFx
 * TestAnim
 
