@@ -6,7 +6,6 @@ A texture pack for Metroid Prime that replaces everything with Bazinga
 * Metroid5 (Phazon Mines)
 * Metroid6 (Magmoor Caverns)
 * Metroid7 (Impact Crater)
-* Metroid8 (End Cinematic)
 
 ### What the hell is this?
 A Byproduct of my own boredom, it replaces every texture (and eventually every sound effect once I figure out how to convert to DSP) in the game with Bazinga
