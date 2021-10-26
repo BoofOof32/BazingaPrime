@@ -2,7 +2,6 @@
 A texture pack for Metroid Prime that replaces everything with Bazinga
 
 ## What's left to finish
-* Metroid3 (Phendrana Drifts)
 * Metroid4 (Tallon Overworld)
 * Metroid5 (Phazon Mines)
 * Metroid6 (Magmoor Caverns)
