@@ -3,6 +3,7 @@ A texture pack for Metroid Prime that replaces everything with Bazinga
 
 ## What's left to finish
 * Metroid5 (Phazon Mines)
+* GGuiSys (Literally HUD elements, nothing is safe from this)
 
 ### What the hell is this?
 A Byproduct of my own boredom, it replaces every texture (and eventually every sound effect once I figure out how to convert to DSP) in the game with Bazinga
