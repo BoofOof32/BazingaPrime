@@ -2,9 +2,8 @@
 A texture pack for Metroid Prime that replaces everything with Bazinga
 
 ## What's left to finish
-* All Textures have been replaced at this point. However I will probably do a few more things with this project before calling it finished, like converting the sound effects.
 * Replace the sound effects in AudioGrp
-* Maybe rig a sheldon model onto Samus (don't expect this for a long time)
+* Maybe rig a sheldon model onto Samus (don't expect this for a *long* time)
 
 ### What the hell is this?
 A Byproduct of my own boredom, it replaces every texture (and eventually every sound effect, I'm working on it.) in the game with Bazinga
