@@ -27,4 +27,4 @@ I made this texture pack with Metaforce in mind, so I'm gonna tell you how to us
 * Enjoy
 
 ### What about Dolphin?
-The thing with Dolphin is that the way the textures are named differ from Metaforce, so if I were to make this pack compatible with Dolphin, I would need to rename all of the textures for them to work. I might make it compatible with Dolphin someday (or someone forks this and does it themselves, whichever comes first), but right now, I just wanna finish this texture pack for Metaforce first. Alternatively, an Xdelta file for this could be made, but I sadly don't know how to make those, so .
+The thing with Dolphin is that the way the textures are named differ from Metaforce, so if I were to make this pack compatible with Dolphin, I would need to rename all of the textures for them to work. Not only that, I also have plans to replace things such as the sound effects and maybe change some models, and I can't really do that on Dolphin without just modifying the iso. An Xdelta file for this mod could be made for Dolphin, but I sadly don't know how to make those. If someone actually knows how to make one, I'll gladly accept a pull request for that.   
