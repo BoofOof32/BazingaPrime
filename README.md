@@ -15,7 +15,7 @@ no good reason really, was just bored. I was inspired by a L4D2 mod that turned 
 I made this texture pack with Metaforce in mind, so I'm gonna tell you how to use it that way.
 
 * Download the latest version of [Metaforce](https://releases.axiodl.com)
-  * It's recommended  you download from the `continuous` folder, as those builds are much more up to date **11/19/21 (Quick note: packaging is currently broken on the latest builds, `v0.1.3-106` is recommended)**
+  * It's recommended  you download from the `continuous` folder, as those builds are much more up to date
 * Download [Blender](https://www.blender.org/download/) as well, anything from `2.83` to `2.93` should work just fine
   * make sure Blender is located in the `C:\` drive, specifically `C:\Program Files\Blender Foundation`, as that's where Metaforce looks for it
 * Open `Metaforce-Gui`
