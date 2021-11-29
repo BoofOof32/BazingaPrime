@@ -21,7 +21,7 @@ I made this texture pack with Metaforce in mind, so I'm gonna tell you how to us
 * Open `Metaforce-Gui`
   * select a directory for Metaforce to extract to (The shorter the directory path is, the better, so sorta like `C:\Metaforce` or `/home/Metaforce` for Linux)   
   * Click `Extract` then select your iso of Metroid Prime
-* once it's done extracting, download this git repository (`git clone https://github.com/BoofOof32/BazingaPrime.git`. Or download a Zip of the repo)
+* once it's done extracting, download this git repository (`git clone https://github.com/BoofOof32/BazingaPrime.git`. Or click *Code*, then click *Download ZIP*, and extract the contents into their own folder)
 * In the extraction directory, go into the MP1 folder and drag and drop the folders from the Bazinga Prime folder into the MP1 folder to replace all the textures
 * Then open `Metaforce-gui` again and click `package`
 * Enjoy
