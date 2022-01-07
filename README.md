@@ -16,8 +16,8 @@ I made this texture pack with Metaforce in mind, so I'm gonna tell you how to us
 
 * Download the latest version of [Metaforce](https://releases.axiodl.com)
   * It's recommended  you download from the `continuous` folder, as those builds are much more up to date
-  * (**NOTE:** Blender 3.0 and up currently don't work with Metaforce's packaging tool, 2.93 is still recommended right now)
 * Download [Blender](https://www.blender.org/download/) as well, anything from `2.83` to `2.93` should work just fine
+  * (**NOTE:** Blender 3.0 and up currently don't work with Metaforce's packaging tool, 2.93 is still recommended right now) 
   * make sure Blender is located in the `C:\` drive, specifically `C:\Program Files\Blender Foundation`, as that's where Metaforce looks for it
 * Open `Metaforce-Gui`
   * select a directory for Metaforce to extract to (The shorter the directory path is, the better, so sorta like `C:\Metaforce` or `/home/Metaforce` for Linux)   
